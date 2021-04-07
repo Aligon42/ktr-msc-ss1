@@ -1,0 +1,16 @@
+C:\Users\antoi\source\repos\ktr-msc-ss1\ktr-msc-ss1\obj\Debug\net5.0\ktr-msc-ss1.csprojAssemblyReference.cache
+C:\Users\antoi\source\repos\ktr-msc-ss1\ktr-msc-ss1\obj\Debug\net5.0\ktr-msc-ss1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antoi\source\repos\ktr-msc-ss1\ktr-msc-ss1\obj\Debug\net5.0\ktr-msc-ss1.AssemblyInfoInputs.cache
+C:\Users\antoi\source\repos\ktr-msc-ss1\ktr-msc-ss1\obj\Debug\net5.0\ktr-msc-ss1.AssemblyInfo.cs
+C:\Users\antoi\source\repos\ktr-msc-ss1\ktr-msc-ss1\obj\Debug\net5.0\ktr-msc-ss1.csproj.CoreCompileInputs.cache
+C:\Users\antoi\source\repos\ktr-msc-ss1\ktr-msc-ss1\bin\Debug\net5.0\ktr-msc-ss1.exe
+C:\Users\antoi\source\repos\ktr-msc-ss1\ktr-msc-ss1\bin\Debug\net5.0\ktr-msc-ss1.deps.json
+C:\Users\antoi\source\repos\ktr-msc-ss1\ktr-msc-ss1\bin\Debug\net5.0\ktr-msc-ss1.runtimeconfig.json
+C:\Users\antoi\source\repos\ktr-msc-ss1\ktr-msc-ss1\bin\Debug\net5.0\ktr-msc-ss1.runtimeconfig.dev.json
+C:\Users\antoi\source\repos\ktr-msc-ss1\ktr-msc-ss1\bin\Debug\net5.0\ktr-msc-ss1.dll
+C:\Users\antoi\source\repos\ktr-msc-ss1\ktr-msc-ss1\bin\Debug\net5.0\ref\ktr-msc-ss1.dll
+C:\Users\antoi\source\repos\ktr-msc-ss1\ktr-msc-ss1\bin\Debug\net5.0\ktr-msc-ss1.pdb
+C:\Users\antoi\source\repos\ktr-msc-ss1\ktr-msc-ss1\obj\Debug\net5.0\ktr-msc-ss1.dll
+C:\Users\antoi\source\repos\ktr-msc-ss1\ktr-msc-ss1\obj\Debug\net5.0\ref\ktr-msc-ss1.dll
+C:\Users\antoi\source\repos\ktr-msc-ss1\ktr-msc-ss1\obj\Debug\net5.0\ktr-msc-ss1.pdb
+C:\Users\antoi\source\repos\ktr-msc-ss1\ktr-msc-ss1\obj\Debug\net5.0\ktr-msc-ss1.genruntimeconfig.cache
